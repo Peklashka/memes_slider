@@ -40,7 +40,7 @@ a {
 
 button {
     margin: 10px;
-    font-size: 40px;
+    font-size: 250px;
     padding: 0.2rem 1rem;
     cursor: pointer;
     background-color: rgb(224, 224, 224);
@@ -54,7 +54,7 @@ button {
 
 .slider {
     margin: 0 auto;
-    height: 800px;
+    height: 400px;
     background-color: rgba(195, 255, 213, 0.815);
 }
 
